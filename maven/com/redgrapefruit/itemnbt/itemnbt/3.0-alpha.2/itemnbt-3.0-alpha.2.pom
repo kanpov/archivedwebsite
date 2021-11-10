@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.redgrapefruit.itemnbt</groupId>
-    <artifactId>ItemNBT</artifactId>
+    <artifactId>itemnbt</artifactId>
     <version>3.0-alpha.2</version>
     <dependencies>
         <dependency>
