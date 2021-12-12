@@ -3,9 +3,10 @@
     <groupId>com.redgrapefruit.itemnbt</groupId>
     <artifactId>itemnbt</artifactId>
     <versioning>
-        <latest>3.1</latest>
-        <release>3.1</release>
+        <latest>3.2</latest>
+        <release>3.2</release>
         <versions>
+            <version>3.2</version>
             <version>3.1</version>
             <version>3.0</version>
             <version>3.0-beta.1</version>
@@ -22,5 +23,5 @@
             <version>1.0</version>
         </versions>
     </versioning>
-    <lastUpdated>20211201000000</lastUpdated>
+    <lastUpdated>20211212000000</lastUpdated>
 </metadata>
