@@ -3,9 +3,10 @@
     <groupId>com.redgrapefruit.itemnbt</groupId>
     <artifactId>itemnbt</artifactId>
     <versioning>
-        <latest>3.2</latest>
+        <latest>3.3-beta.1</latest>
         <release>3.2</release>
         <versions>
+            <version>3.3-beta.1</version>
             <version>3.2</version>
             <version>3.1</version>
             <version>3.0</version>
