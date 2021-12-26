@@ -3,11 +3,11 @@
     <groupId>forked.crimsondawn45.fabricshieldlib</groupId>
     <artifactId>fabricshieldlib</artifactId>
     <versioning>
-        <latest>1.5.0-1.18</latest>
-        <release>1.5.0-1.18</release>
+        <latest>1.4.5-1.18</latest>
+        <release>1.4.5-1.18</release>
         <versions>
-            <version>1.5.0-1.18</version>
+            <version>1.4.5-1.18</version>
         </versions>
     </versioning>
-    <lastUpdated>20212612000000</lastUpdated>
+    <lastUpdated>20212612000001</lastUpdated>
 </metadata>
