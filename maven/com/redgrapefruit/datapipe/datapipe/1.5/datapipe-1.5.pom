@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.redgrapefruit.datapipe</groupId>
+    <artifactId>datapipe</artifactId>
+    <version>1.5</version>
+    <dependencies>
+        <dependency>
+            <groupId>net.fabricmc</groupId>
+            <artifactId>fabric-loader</artifactId>
+            <version>0.12.12</version>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>net.fabricmc.fabric-api</groupId>
+            <artifactId>fabric-api</artifactId>
+            <version>0.46.0+1.18</version>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>net.fabricmc</groupId>
+            <artifactId>fabric-language-kotlin</artifactId>
+            <version>1.7.1+kotlin.1.6.10</version>
+            <scope>runtime</scope>
+        </dependency>
+    </dependencies>
+</project>
