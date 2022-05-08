@@ -1,9 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 ---
+
+## [About]({% link about.markdown %})
 
 ## [Newsletter]({% link newsletter.markdown %})
 
@@ -32,4 +31,19 @@ A series of articles on various topics that come to mind.
 (<i>{{ article.date | date: date_format }}</i>)
 {% endfor %}
 
-## [About]({% link about.markdown %})
+## Maven
+
+If you're here from a tutorial on how to use some of my [GitHub](https://github.com/RedGrapefruit09) JVM libraries,
+you may be looking for a Maven repository with all the artifacts hosted on it.
+
+Just paste this little piece of Groovy code into your `build.gradle` to include the Maven:
+```groovy
+repositories {
+    maven {
+        url = "https://redgrapefruit09.github.io/maven/"
+    }
+}
+```
+
+If you encounter any Gradle installation problems, create an issue in the project's repository, and I'll get in
+touch as soon as possible.
