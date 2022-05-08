@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Home
 ---
-
-## [About]({% link about.markdown %})
 
 ## [Newsletter]({% link newsletter.markdown %})
 
