@@ -10,12 +10,12 @@ date:   2022-05-08 +0300
     - The preparations for WorldSkills (more on that in an article coming soon) exhausted my time and energy
     - The technique I used was horribly inefficient, requiring me to spend about an hour every day writing up a long rant
     - It started seeming pointless to me, because I was unable to share my hours of work with anyone else
-- Since then, more than 1.5 months have passed and the distraction (WorldSkills) has gone away, so I decided to come
+- Since then, more than 1.5 months have passed and the distraction has gone away, so I decided to come
   back to consistent journaling
 - But, I decided to make some major changes:
   - Instead of trying to pump out a post every day, I decided to starting making posts every week on Sunday
   - The purpose of the posts had to shift to just be a method of capturing information, not a productivity app
-  - For productivity, I returned to the trusty old [Trello](https://trello.com) app, allowing me to effectively
+  - For productivity, I returned to the [Trello](https://trello.com) app, allowing me to effectively
     summarize my boards into a post with more detail
 - Then there was the choice of software to empower the journaling process:
   - I used to use [Obsidian](https://obsidian.md), but I recently dropped it for [Anki](https://apps.ankiweb.net) flashcards
@@ -34,7 +34,7 @@ date:   2022-05-08 +0300
 
 - I have a ton of exams planned for the next two weeks, so I've been sitting in my [Trello](https://trello.com) chores
   board this week for hours on end
-- We haven't studied much new stuff, just tons of revising and bare study
+- We haven't studied much new stuff, just tons of revising and summarizing
 - In late May, we're also going to switch buildings often, which, obviously, is neither convenient nor easy, so
   I don't expect there to be much pressure
 - Some major highlights:
@@ -70,8 +70,7 @@ date:   2022-05-08 +0300
 - Even though I've got a bunch of exams due, I started feeling well enough to resume work
 - However, instead of picking up my latest active project [GoldenForge](https://github.com/RedGrapefruit09/GoldenForge),
   I decided to start a new one
-- [GoldenForge](https://github.com/RedGrapefruit09/GoldenForge) is currently put off indefinitely (it's currently a bit
-  pointless) in favor of game development
+- [GoldenForge](https://github.com/RedGrapefruit09/GoldenForge) is currently put off indefinitely
 - The new project is called ResourceRun and is effectively a better version of my awful project
   [Eggland](https://github.com/RedGrapefruit09/Eggland) (yes, the name is very cringe) after I've gained so much
   experience with competitive game development
