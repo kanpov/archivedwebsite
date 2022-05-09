@@ -30,21 +30,6 @@ date:   2022-05-08 +0300
 - So, after a few hours spent on setting the website up and the newsletter system, this is the first post!
 - I am planning on porting over my old posts, but no promises yet!
 
-## Studying
-
-- I have a ton of exams planned for the next two weeks, so I've been sitting in my [Trello](https://trello.com) chores
-  board this week for hours on end
-- We haven't studied much new stuff, just tons of revising and summarizing
-- In late May, we're also going to switch buildings often, which, obviously, is neither convenient nor easy, so
-  I don't expect there to be much pressure
-- Some major highlights:
-  - Did the History test at home with tons of detail put into it
-  - Polished and finished the [Scratch](https://scratch.mit.edu) school project
-  - Updated the description file for the Scratch project as well
-  - Completed a Biology project on a family of flowers, was annoying to do due to a severe lack of sources
-  - Spent a while adding Literature theory for the exam into Anki
-  - Banged my head against the desk trying to memorize a tough poem with zero classic interconnection
-
 ## German
 
 - Finished migrating my entire German collection of vocabulary from Obsidian to Anki flashcards
