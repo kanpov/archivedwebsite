@@ -1,5 +1,6 @@
 ---
-layout: home
+title: Home
+layout: page
 ---
 
 ## [Newsletter]({% link newsletter.markdown %})
