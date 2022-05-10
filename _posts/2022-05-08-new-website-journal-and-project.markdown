@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New Beginnings"
+title: "New Website, Journal and Project"
 date: 2022-05-08 +0300
 ---
 
