@@ -30,6 +30,14 @@ A series of articles on various topics that come to mind.
 (<i>{{ article.date | date: date_format }}</i>)
 {% endfor %}
 
+## [Projects]({$ link projects.markdown  $})
+
+A repository of all of my projects:
+
+- Mods
+- Modding libraries
+- Games
+
 ## Maven
 
 If you're here from a tutorial on how to use some of my [GitHub](https://github.com/RedGrapefruit09) JVM libraries,
