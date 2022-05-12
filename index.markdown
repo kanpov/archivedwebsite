@@ -30,7 +30,7 @@ A series of articles on various topics that come to mind.
 (<i>{{ article.date | date: date_format }}</i>)
 {% endfor %}
 
-## [Projects]({$ link projects.markdown  $})
+## [Projects]({% link projects.markdown %})
 
 A repository of all of my projects:
 
