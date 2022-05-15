@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "New Website, Journal and Project"
+title: "Status Update v0.1"
 date: 2022-05-08 +0300
 ---
 
 ## Journaling
 
 - On May 12th this year I temporarily stopped journaling. This was for a variety of reasons:
-    - The preparations for WorldSkills (more on that in an article coming soon) exhausted my time and energy
-    - The technique I used was horribly inefficient, requiring me to spend about an hour every day writing up a long rant
-    - It started seeming pointless to me, because I was unable to share my hours of work with anyone else
+  - The preparations for WorldSkills (more on that in an article coming soon) exhausted my time and energy
+  - The technique I used was horribly inefficient, requiring me to spend about an hour every day writing up a long rant
+  - It started seeming pointless to me, because I was unable to share my hours of work with anyone else
 - Since then, more than 1.5 months have passed and the distraction has gone away, so I decided to come
   back to consistent journaling
 - But, I decided to make some major changes:
@@ -18,8 +18,10 @@ date: 2022-05-08 +0300
   - For productivity, I returned to the [Trello](https://trello.com) app, allowing me to effectively
     summarize my boards into a post with more detail
 - Then there was the choice of software to empower the journaling process:
-  - I used to use [Obsidian](https://obsidian.md), but I recently dropped it for [Anki](https://apps.ankiweb.net) flashcards
-  - There are software like [Revue](https://getrevue.co) that allow me to send out posts into people's emails, but they are inherently flawed:
+  - I used to use [Obsidian](https://obsidian.md), but I recently dropped it for [Anki](https://apps.ankiweb.net)
+    flashcards
+  - There are software like [Revue](https://getrevue.co) that allow me to send out posts into people's emails, but they
+    are inherently flawed:
     - Custom format instead of Markdown
     - No import from Markdown
     - No export to any sort of parsable format
@@ -41,7 +43,8 @@ date: 2022-05-08 +0300
   - I learned a lot about reviewing large decks in [Anki](https://apps.ankiweb.net)
 - Ported all my theory for grammar as well, which was a tad bit more painful to accomplish
   - My main reference source for German grammar is [this excellent website](https://germanveryeasy.com)
-  - I decided to completely rewrite my notes in the process of porting them, which significantly increased the time spent
+  - I decided to completely rewrite my notes in the process of porting them, which significantly increased the time
+    spent
   - Plus, I added a bunch of new theory on some other topics I wanted to study prematurely
   - Lastly, I re-studied all the older grammar just to make sure I haven't forgotten anything important
 - Highlights from the lessons:
