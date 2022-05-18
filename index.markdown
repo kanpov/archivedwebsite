@@ -5,37 +5,55 @@ layout: page
 
 ## [Newsletter]({% link newsletter.markdown %})
 
-A weekly newsletter for documenting my life.\
-Comes out every Sunday at 6 PM GMT.
+A weekly newsletter that comes out every Sunday/Monday at 6PM GMT with:
 
-{% for post in site.posts limit:1 %}
-<b>Latest post:</b>
+- Detailed dev-logs and updates on my current projects
+- In-depth coverage of the internal architecture and design principles I use in my projects
+- Updates on this website and my journaling method
+- A bit of self-reflection on my language learning journey (I'm learning advanced English and recently started learning
+  German)
+
+{% if site.posts.size > 0 %}
+**Recent highlights:**
+<ul>
+{% for post in site.posts limit:3 %}
+<li>
 <a href="{{ post.url | relative_url }}">
 {{ post.title | escape }}
 </a>
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 (<i>{{ post.date | date: date_format }}</i>)
+</li>
 {% endfor %}
+</ul>
+{% endif %}
 
 ## [Articles]({% link articles.markdown %})
 
-A series of articles on various topics that come to mind.
+My questionable pieces of writing.\
+Come out non-consistently, usually about once a month.
 
+{% if site.articles.size > 0 %}
+<ul>
 {% for article in site.articles limit:1 %}
-<b>Latest article:</b>
+<li>
 <a href="{{ article.url | relative_url }}">
 {{ article.title | escape }}
 </a>
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 (<i>{{ article.date | date: date_format }}</i>)
+</li>
 {% endfor %}
+</ul>
+{% endif %}
 
 ## [Projects]({% link projects.markdown %})
 
-A repository of all of my projects:
+A repository of all of my projects.\
+These currently include:
 
-- Mods
-- Modding libraries
+- Minecraft mods
+- Minecraft modding libraries
 - Games
 
 ## Maven
