@@ -21,10 +21,10 @@
 title: Digital Garden
 email: karpovanton729@gmail.com
 description: >-
-  A storage for my online articles and newsletter
+  A digital hub for my articles, newsletter and projects
 baseurl: ""
 url: ""
-github_username: RedGrapefruit09
+github_username: Kanpov
 
 # Build settings
 theme: minima
