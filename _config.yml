@@ -24,7 +24,7 @@ description: >-
   A digital hub for my articles, newsletter and projects
 baseurl: ""
 url: ""
-github_username: Kanpov
+github_username: kanpov
 
 # Build settings
 theme: minima

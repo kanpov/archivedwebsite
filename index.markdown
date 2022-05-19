@@ -5,7 +5,7 @@ layout: page
 
 ## [Newsletter]({% link newsletter.markdown %})
 
-A weekly newsletter that comes out every Sunday/Monday at 6PM GMT with:
+A newsletter that comes out every Sunday/Monday at 6PM GMT with:
 
 - Detailed dev-logs and updates on my current projects
 - In-depth coverage of the internal architecture and design principles I use in my projects
@@ -35,7 +35,7 @@ Come out non-consistently, usually about once a month.
 
 {% if site.articles.size > 0 %}
 <ul>
-{% for article in site.articles limit:1 %}
+{% for article in site.articles limit:3 %}
 <li>
 <a href="{{ article.url | relative_url }}">
 {{ article.title | escape }}
@@ -58,7 +58,7 @@ These currently include:
 
 ## Maven
 
-If you're here from a tutorial on how to use some of my [GitHub](https://github.com/RedGrapefruit09) JVM libraries,
+If you're here from a tutorial on how to use some of my [GitHub](https://github.com/kanpov) JVM libraries,
 you may be looking for a Maven repository with all the artifacts hosted on it.
 
 Just paste this little piece of Groovy code into your `build.gradle` to include the Maven:
@@ -66,7 +66,7 @@ Just paste this little piece of Groovy code into your `build.gradle` to include 
 ```groovy
 repositories {
     maven {
-        url = "https://redgrapefruit09.github.io/maven/"
+        url = "https://kanpov.github.io/maven/"
     }
 }
 ```

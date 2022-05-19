@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Status Update v0.1"
+title: "0.1: New Project, Website and Journal"
 date: 2022-05-08 +0300
 ---
 
@@ -59,11 +59,11 @@ date: 2022-05-08 +0300
 - Two weeks ago, I decided to take a (relatively) small break from programming due to being utterly burnt out
   as a result of the nation-wide WorldSkills tour
 - Even though I've got a bunch of exams due, I started feeling well enough to resume work
-- However, instead of picking up my latest active project [GoldenForge](https://github.com/RedGrapefruit09/GoldenForge),
+- However, instead of picking up my latest active project [GoldenForge](https://github.com/kanpov/GoldenForge),
   I decided to start a new one
-- [GoldenForge](https://github.com/RedGrapefruit09/GoldenForge) is currently put off indefinitely
+- [GoldenForge](https://github.com/kanpov/GoldenForge) is currently put off indefinitely
 - The new project is called ResourceRun and is effectively a better version of my older project
-  [Eggland](https://github.com/RedGrapefruit09/Eggland), now that I've gained more practical
+  [Eggland](https://github.com/kanpov/Eggland), now that I've gained more practical
   experience with game development
 - To recap the game's concept:
   - There are 4 seasons corresponding to the ones in real life: spring, summer, autumn, winter
@@ -77,7 +77,7 @@ date: 2022-05-08 +0300
 - I've been working on this game in the time I could spare from my other activities
 - Here are the main highlights of this week's progress:
   - Set up the project
-    - Even in this early stage, it's already publicly available [here](https://github.com/RedGrapefruit09/ResourceRun)
+    - Even in this early stage, it's already publicly available [here](https://github.com/kanpov/ResourceRun)
       on GitHub
   - Created the generation of the ground
     - The tiles are made pretty around the edges (they have right, left, top, bottom, bottom-left etc. variants)

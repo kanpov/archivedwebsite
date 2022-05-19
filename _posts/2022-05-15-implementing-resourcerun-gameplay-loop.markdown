@@ -1,19 +1,20 @@
 ---
 layout: post
-title: "Status Update v0.2"
+title: "0.2: Implementing ResourceRun's Gameplay Loop"
 date: 2022-05-15 +0300
 ---
 
 ## Journaling
 
 - I wanted to make some clarifications in this status update about my journaling method:
-  - Posts are released weekly as a form of status updates
-    - The schedule is every Sunday sometime from 11AM GMT to 6PM GMT
-    - The posts are somewhat semantically versioned (e.g. _Status Update v0.1_):
-      - The _v_ precedes the version
+  - Posts are released as a form of status updates
+    - There is no schedule for releasing these updates and there will never be one
+    - Though, mostly they are released every Sunday with breaks for a few weeks every once in a while
+    - The posts are somewhat versioned (e.g. _0.1_):
       - The first number is the major iteration of the content format
       - The second number is the number of the post, relative to the first number
       - The second number is reset to one on each major iteration
+    - The main topic of the post comes after the version
   - The main target audience of the posts are:
     - People interested in my projects (these are essentially written dev-logs)
     - People interested in the contents of this website (articles, projects index etc.)

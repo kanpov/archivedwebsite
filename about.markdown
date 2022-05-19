@@ -12,7 +12,7 @@ This website is dedicated to storing some content I put out online:
 
 - A **newsletter** that I put out every Sunday at 6PM GMT (or earlier)
 - Some **articles** about my personal experiences
-- A repository of my **projects** with links to their respective [GitHub](https://github.com/RedGrapefruit09)
+- A repository of my **projects** with links to their respective [GitHub](https://github.com/kanpov)
   repositories
 - My **Maven** repository for distributing the artifacts of my JVM libraries
 
