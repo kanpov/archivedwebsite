@@ -7,7 +7,6 @@ layout: page
 
 A newsletter that comes out every Sunday/Monday at 6PM GMT with:
 
-
 - Detailed dev-logs and updates on my current projects
 - In-depth coverage of the internal architecture and design principles I use in my projects
 - Updates on this website and my journaling method
