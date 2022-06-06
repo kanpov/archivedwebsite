@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "0.4: Going into 3D, Algorithms and Math"
-date: 2022-05-29 +0300
+date: 2022-05-30 +0300
 ---
 
 ### Introduction
