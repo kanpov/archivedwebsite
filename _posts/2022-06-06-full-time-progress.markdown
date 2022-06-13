@@ -38,7 +38,7 @@ date: 2022-06-06 +0300
 ### German
 
 - It's often really demotivating to review my progress in learning German in comparison with my English skills
-  - Though, to be fair I've learned a lot in these past 8 months from absolutely zero knowledge
+  - Though, to be fair I've learned a lot in these past 8 months from absolutely zero skills in the language
 - Anyway, these past two weeks we've been working on the 8th Unit
 - Units in this book are pretty much divided each into 2 to 4 micro-units, each with new vocabulary and some also
   accompanied by new grammar
