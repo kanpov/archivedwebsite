@@ -16,10 +16,7 @@ date: 2022-06-13 +0300
     reason to care or act upon the idea after watching (or, in my case, analyzing) the talk
   - And, without any particular sense of direction or hint towards its implementation, any idea (in my opinion) is
     practically worthless and turns into a source of something I call _educational entertainment_
-  - And that's perfectly fine for a platform that advertises itself purely for entertaining its viewers (like the
-    various _excellent_ geopolitical documentaries and videos on YouTube, [these](https://www.youtube.com/c/TLDRNewsEU/videos)
-    [are](https://www.youtube.com/c/PolyMatter/videos) [my](https://www.youtube.com/c/RealLifeLore/videos)
-    [personal](https://www.youtube.com/c/EconomicsExplained/videos) [favorites](https://www.youtube.com/c/TLDRGlobal/videos))
+  - And that's perfectly fine for a platform that advertises itself purely for entertaining its viewers
   - However, TED advertises itself (not necessarily officially, but through the intrinsic motives shared in their talks'
     content) as a self-improvement and learning program
   - This has misled me when making my analyses and working on these talks
