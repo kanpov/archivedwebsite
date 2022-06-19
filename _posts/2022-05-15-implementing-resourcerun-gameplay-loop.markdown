@@ -13,7 +13,7 @@ date: 2022-05-15 +0300
     - The posts are somewhat versioned (e.g. _0.1_):
       - The first number is the major iteration of the content format
       - The second number is the number of the post, relative to the first number
-      - The second number is reset to one on each major iteration
+      - The second number is kept every major iteration
     - The main topic of the post comes after the version
   - The main target audience of the posts are:
     - People interested in my projects (these are essentially written dev-logs)
@@ -191,7 +191,7 @@ date: 2022-05-15 +0300
 | Ruby | Ore | 120$ |
 
 - Lastly, I implemented the large upgrade system
-  - Added some UI sprites and created the UI ([screenshot]({% link media/20220515/RRUpgradeUI.png %}))
+  - Added some UI sprites and created the UI ([screenshot]({% link cdn/20220515/RRUpgradeUI.png %}))
     - The output item's `label` is displayed on the top
     - In the middle, all ingredients for the upgrade are displayed with:
       - The item's icon

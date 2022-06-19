@@ -33,9 +33,9 @@ date: 2022-05-30 +0300
   - I'd give the tutorial series a 3/5-star rating, it was definitely helpful, but quite confusing in many places for a
     beginner
 - Here are three of my final renders:
-![Top view of the donut]({% link media/20220529/DonutTopView.png %})
-![Side view of the donut]({% link media/20220529/DonutSideView.png %})
-![Normal view of the donut]({% link media/20220529/DonutNormalView.png %})
+![Top view of the donut]({% link cdn/20220529/DonutTopView.png %})
+![Side view of the donut]({% link cdn/20220529/DonutSideView.png %})
+![Normal view of the donut]({% link cdn/20220529/DonutNormalView.png %})
 - After completing this part of the series, I learnt how to navigate around the UI and viewport
   and a bit of rendering, sculpting and modeling
 - Still, that was not nearly enough to make something of my own, so I searched for another tutorial specifically about
@@ -44,7 +44,7 @@ date: 2022-05-30 +0300
   [isometric bedroom](https://www.youtube.com/watch?v=yCHT23A6aJA)
   - It was a blast to follow, and I learned a lot of the essential modeling tools in Blender
   - By the end of the tutorial, I achieved this result:
-![Isometric bedroom]({% link media/20220529/IsometricBedroom.png %})
+![Isometric bedroom]({% link cdn/20220529/IsometricBedroom.png %})
 - Next week, I'm planning on practicing more on this design and proceeding onto the second and more difficult
   [tutorial](https://www.youtube.com/watch?v=dEGJeVnWZAA)
 
