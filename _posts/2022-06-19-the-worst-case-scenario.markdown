@@ -105,7 +105,7 @@ date: 2022-06-19 +0300
  to study in Germany (which is what I've been learning German for)
   - Due to the specifics of my country's education system, there's essentially a final test after school, which determines whether
    you'll be able to go to university and get any sort of decent job
-  - To ensure that I can pass this test in the worst-case scenario, I can participate in various olympiads, which adds a certain
+  - To ensure that I can pass this test in the worst-case scenario, I can participate in various olympiads, which add a certain
    number of points to the total test score
   - And this is one of the benefits of NTO and VOS: NTO adds 100 points (equivalent to the max amount of points for a single subject, and there's
    only 3-4 of them) and a win in the top tour of VOS will pass you immediately
