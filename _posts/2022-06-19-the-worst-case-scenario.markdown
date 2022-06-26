@@ -81,10 +81,12 @@ date: 2022-06-19 +0300
 
 ### Geometry
 
-- As mentioned in the last three posts, I've been going through an unconventional textbook for learning geometry,
- which goes over the fundamentals instead of focusing on the theorems
-- I'm going to study the official curriculum eventually, but, for now, I've decided to solely focus on it
-- Since there's not much to show, I decided to just publish a list of paragraphs I've gone through this week:
+- As mentioned in the last three posts, I've been going through an unconventional textbook for
+ learning geometry, which goes over the fundamentals instead of focusing on the theorems
+- I'm going to study the official curriculum eventually, but, for now, I've decided to solely focus
+ on it
+- Since there's not much to show, I decided to just publish a list of paragraphs I've gone through
+ this week:
   - P6. "Broken" lines
   - P7. Polygons
   - P8. Triangles
@@ -95,19 +97,24 @@ date: 2022-06-19 +0300
 
 ### Competitive Programming
 
-- As a long term goal, I've decided to try to participate in various other competitive programming olympiads
-  - Most notably, [NTO](https://ntcontest.ru) VR, which I see as a successor of WorldSkills due to various objective benefits
-    - Unfortunately, I can't participate in it until I enter the 8th grade, so that's only going to be in 2023-2024
+- As a long term goal, I've decided to try to participate in various other competitive programming
+olympiads
+  - Most notably, [NTO](https://ntcontest.ru) VR, which I see as a successor of WorldSkills due to
+  various objective benefits
+    - Unfortunately, I can't participate in it until I enter the 8th grade, so that's only going to
+    be in 2023-2024
     - Though, that gives me more time to prepare
   - I might participate in WorldSkills again in the VR section as a stepping stone to NTO
   - Another less VR-oriented option is [VOS](https://vos.olimpiada.ru), which is a solely mathematic and algorithmic olympiad
 - Because of the situation that has formed ever since the 24th of February, I might not be able to act on my original plan of going
  to study in Germany (which is what I've been learning German for)
-  - Due to the specifics of my country's education system, there's essentially a final test after school, which determines whether
-   you'll be able to go to university and get any sort of decent job
-  - To ensure that I can pass this test in the worst-case scenario, I can participate in various olympiads, which add a certain
-   number of points to the total test score
-  - And this is one of the benefits of NTO and VOS: NTO adds 100 points (equivalent to the max amount of points for a single subject, and there's
-   only 3-4 of them) and a win in the top tour of VOS will pass you immediately
-  - As much as it would be disappointing to have to resort to this option, I have to account for every scenario just to be safe
+  - Due to the specifics of my country's education system, there's essentially a final test after
+   school, which determines whether you'll be able to go to university and get any sort of decent job
+  - To ensure that I can pass this test in the worst-case scenario, I can participate in various
+  olympiads, which add a certain number of points to the total test score
+  - And this is one of the benefits of NTO and VOS: NTO adds 100 points (equivalent to the max
+   amount of points for a single subject, and there's only 3-4 of them) and a win in the top tour of
+    VOS will pass you immediately
+  - As much as it would be disappointing to have to resort to this option, I have to account for
+   every scenario just to be safe
 - On this dissatisfying note, I'd like to end this status update. I hope to be able to provide a larger update on my preparation efforts next time
