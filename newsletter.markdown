@@ -12,7 +12,7 @@ newsletter.</p>
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7_dtp.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
+	#mc_embed_signup{clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -45,20 +45,18 @@ newsletter.</p>
 <h3>Past Posts</h3>
 
 {%- if site.posts.size > 0 -%}
-<ul class="post-list">
 {%- for post in site.posts -%}
-<li>
-{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-<span class="post-meta">{{ post.date | date: date_format }}</span>
+
 <h3>
-<a class="post-link" href="{{ post.url | relative_url }}">
+<a href="{{ post.url | relative_url }}">
 {{ post.title | escape }}
 </a>
 </h3>
-{%- if site.show_excerpts -%}
-{{ post.excerpt }}
-{%- endif -%}
-</li>
+
+<p>
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+<span>{{ post.date | date: date_format }}</span>
+</p>
+
 {%- endfor -%}
-</ul>
 {%- endif -%}

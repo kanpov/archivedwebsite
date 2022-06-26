@@ -26,10 +26,20 @@ baseurl: ""
 url: ""
 github_username: kanpov
 
+author:
+  name: kanpov
+  email: "karpovanton729@gmail.com"
+
+minima:
+  skin: dark
+  social_links:
+    github: kanpov
+
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 collections:
   articles:
