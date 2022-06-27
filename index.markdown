@@ -39,6 +39,7 @@ My questionable pieces of writing.\
 Come out non-consistently, usually about once a month.
 
 {% if site.articles.size > 0 %}
+**Recent highlights:**
 <ul>
 {% for article in site.articles limit:3 %}
 <li>
