@@ -8,6 +8,16 @@ layout: page
 A newsletter that comes out every Sunday/Monday at 6PM GMT where I give updates on my life
 and projects.
 
+<b>How to subscribe to the newsletter:</b>
+
+<ul>
+  <li>Follow <a href="https://feedrabbit.com/signup?return_url=%2Fsubscriptions%2Fnew%3Furl%3Dhttps%253A%252F%252Fkanpov.github.io%252Ffeed.xml">this link</a> to go to FeedRabbit, which is a service that will deliver the new posts to your inbox</li>
+  <li>Enter your email address and sign up to the service</li>
+  <li>Click on the green subscribe button</li>
+  <li>Click on the save button, edit the settings if necessary</li>
+  <li>Lastly, check your email address to verify it</li>
+</ul>
+
 {% if site.posts.size > 0 %}
 **Recent highlights:**
 <ul>
