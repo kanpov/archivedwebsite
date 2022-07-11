@@ -6,8 +6,8 @@ date: 2022-06-27 +0300
 
 ## The Struggle to Learn Languages
 
-**Millions of people around the world want to learn a foreign language**, whether it’d be for \
- immigrating to another country, where that language is official,
+**Millions of people around the world want to learn a foreign language**, whether it’d be to \
+ immigrate to another country, where that language is official,
  or to communicate with friends and family or just for fun.
 
 **The resources surrounding language learning are immense, and yet so many people struggle with it**. For instance, the vast majority of high school
@@ -54,7 +54,7 @@ However, it is equally important to **avoid relying on a single learning method 
  Try out different tools and approaches to see what suits you best and yields the best result in the most effective way. No teacher, language course
  or expert can do that for you.
 
-For the entirety of my English learning journey, I used a tutor or a teacher at school before I decided to go into it further on my own. I think a lot of
+For the entirety of my English learning journey, I had a tutor or a teacher at school before I decided to go into it further on my own. I think a lot of
 learners devalue the help they receive from their teachers. They suggest textbooks, (if you're not among a large group of students) change the learning
 program to patch up holes in your knowledge and revise.
 
