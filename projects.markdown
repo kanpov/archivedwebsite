@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+**Warning:** This page is currently being reworked and doesn't contain all the relevant information.
+
 ## My mods
 
 I've made several mods for [Minecraft](https://minecraft.net) using the [Fabric](https://fabricmc.net) toolchain:

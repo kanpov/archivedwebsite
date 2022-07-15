@@ -43,7 +43,7 @@ Productivity-related applications and methods take up a significant portion of y
 and checklists on [monday.com](https://monday.com).
 
 The sheer amount of time you'll need to invest to properly use these sorts of apps is often underestimated, and it is
- ultimately the main reason why I suggest to **use a down-top approach with productivity**, meaning that you should
+ ultimately the main reason why I suggest **using a down-top approach with productivity**, meaning that you should
  introduce changes and productivity methods into your workflow only when not doing so has proven to be objectively
  detrimental to your creative process.
 
@@ -89,7 +89,7 @@ a complete guide to using it, so if you want to dive deeper into its features, b
   article I'm going to present an alternative method.
 - Every board consists of a screen with **lists**. A list contains some amount of tasks and is used to group those tasks
   together based on an organizational principle. The most basic list setup are three lists: _"To Do"_, _"In Progress"_
-  and _"Done"_, but as your needs grow you'll often have to switch to something more robust.
+  and _"Done"_, but as your needs grow you'll eventually have to switch to something more robust.
 - The tasks inside a list are called **cards**. A card is the most fundamental unit of information in Trello and is
   mainly used to represent some action or task. Cards have labels on them that need to give a brief description of them,
   but have other, more advanced features to add more information to them:
