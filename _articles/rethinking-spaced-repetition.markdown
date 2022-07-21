@@ -161,3 +161,15 @@ learning are yielded from a productive balance of two extremes (in this case, ex
 
 I hope this article was helpful, and I wish you the best of luck in picking the right balance of tools and methods to
 enhance your language vocabulary.
+
+## Further Reading
+
+- [SuperMemo Guru](https://supermemo.guru/wiki/SuperMemo_Guru) - the encyclopedia of spaced repetition and memorization
+  founded by the users of SuperMemo. Contains tons of in-depth articles and explanations on the subject, so I'd
+  recommend this for anyone who wants to research more about SRS.
+- [Augmenting Long Term Memory](http://augmentingcognition.com/ltm.html) - a long-winded article about long-term memory,
+  theory behind SRS and practical application of Anki.
+- [Ebbinghaus (1885-1913)](http://psychclassics.yorku.ca/Ebbinghaus/index.htm) - the digital translated version of
+  Ebbinghaus's research, a deep dive into the spaced effect and memorization.
+- [The Testing Effect](https://en.wikipedia.org/wiki/Testing_effect) - a Wikipedia article on the testing/spacing
+  effect, can serve a short overview of the considerations behind it.
