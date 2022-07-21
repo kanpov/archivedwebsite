@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Creating a Multitasked Workflow"
-date: 2022-07-12 +0300
+date: 2022-07-14 +0300
 ---
 
 ## Introduction
