@@ -12,6 +12,8 @@ date: 2022-07-18 +0300
 - Everything written here is subject to change, so read it with that in mind.
 - The draft stage can last up to 14 days, and it is entirely possible that this draft will be completely thrown out
   and/or the article topic changes or the article is cancelled entirely.
+- Article drafts are not persisted, meaning that this text will be gone (unless you dive into this website's commit
+  history and extract it from there) after the final version is out.
 
 ## Introduction
 
