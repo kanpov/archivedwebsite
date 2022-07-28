@@ -10,7 +10,7 @@ If you've ever wanted to learn a foreign language, then you've gone through the 
 
 **The prevalent method of memorization in schools has always been inefficient**: you get a block of new information
 and grind through the words for hours in the evening, desperately trying to smash the words into your brain. And even
-after doing so, you'll most likely forget everything after the test and have to relearn everything again in a few weeks.
+after doing so, you'll most likely forget everything after the test and have to relearn it all again in a few weeks.
 
 **Spaced repetition** is a scientifically-proven technique of remembering any sort of information that aims to address 
 these concerns and make learning more efficient. In this article I'm going to explain what it is in detail and how to
@@ -138,7 +138,7 @@ memory, but there are several downsides that become more and more apparent throu
    (if not tens of thousands) of scheduled reviews and will have to either miss reviews, sabotaging the whole point of
    using an SRS, or turn to implicit spaced repetition.
 
-These issues have led me to believe that **there is no best type of spaced repetition system**, and I recommend you to
+These issues have led me to believe that **there is no best type of spaced repetition system**, and I suggest you
 mix them instead to get the most optimal and, what's even more crucial, persistent result. That sort of mix or ratio has
 to be flexible, as your needs in terms of scalability, speed and barrier-of-entry change throughout your learning
 process.
