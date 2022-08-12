@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Digital Garden
+title: Kanpov
 email: karpovanton729@gmail.com
 description: >-
-  A digital hub for my articles, newsletter and projects
+  A website hosting my articles, newsletter, projects and much more
 baseurl: ""
 url: ""
 github_username: kanpov
