@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: single
 title: "0.3: A Daunting Future in 3D"
 date: 2022-05-22 +0300
+excerpt: "Implemented the repair system, made some minor improvements and added some final polish..."
 ---
 
 ### German

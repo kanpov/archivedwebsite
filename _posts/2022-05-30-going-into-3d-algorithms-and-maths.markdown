@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: single
 title: "0.4: Going into 3D, Algorithms and Math"
 date: 2022-05-30 +0300
+excerpt: "As promised, I've started my path to becoming a 3D game development by going into multiple directions at once..."
 ---
 
 ### Introduction
 
-- This week has been one of the most important ones in a long while, ever since WorldSkills finale
+- This week has been one of the most important ones in a long while
 - As promised, I've started my path to becoming a 3D game development by going into multiple directions at once:
   - 3D graphics in [Blender](https://blender.org)
   - Enhancing my problem-solving skills

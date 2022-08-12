@@ -1,19 +1,29 @@
 ---
-layout: page
-title: Articles
+layout: archive
 permalink: /articles/
 ---
 
-<ul class="post-list">
-{% for article in site.articles %}
+<ul class="taxonomy__index">
+  {% assign articlesInYear = site.articles | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% for year in articlesInYear %}
+    <li>
+      <a href="#{{ year.name }}">
+        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
 
-<h3 class="post-list-heading">
-<a class="post-link" href="{{ article.url | relative_url }}">
-{{ article.title | escape }}
-</a>
-</h3>
-
-{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-<span class="post-meta">{{ article.date | date: date_format }}</span>
-
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign articlesByYear = site.articles | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in articlesByYear %}
+  <section id="{{ year.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% for post in year.items %}
+        {% include archive-single.html type=entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
 {% endfor %}

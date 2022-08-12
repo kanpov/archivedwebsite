@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: single
 title: "Creating a Multitasked Workflow"
 date: 2022-07-14 +0300
+excerpt: "This article aims to tackle the complex subject of setting up and maintaining an efficient and productive
+workflow that employs multitasking..."
 ---
 
 ## Introduction
@@ -121,7 +123,7 @@ This method has worked wonderfully and has eliminated my main concern with multi
 at the sheer amount of tasks and having these tasks isolated and, as a result, disorganized. Here is a visual 
 representation of how this could look like:
 
-![A screenshot of my megamap board]({% link cdn/20220714/MegamapExample.png %})
+**TODO**: add back image here.
 
 ## Conclusion
 

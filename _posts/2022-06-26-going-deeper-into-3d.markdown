@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: single
 title: "0.8: Going Deeper into 3D"
 date: 2022-06-26 +0300
+excerpt: "Firstly, I re-did the lighthouse scene from the last post..."
 ---
 
 ### English

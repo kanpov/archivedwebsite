@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: single
 title: "0.5: Full-time Progress"
 date: 2022-06-06 +0300
+excerpt: "My studies are finally over, so I'm pretty much working full-time now and for most of the summer..."
 ---
 
 ### Introduction

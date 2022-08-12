@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: single
 title: "0.6: First Accomplishments in 3D"
 date: 2022-06-13 +0300
+excerpt: "This week I've so far been the most proud of in terms of my progress in learning 3D art/graphics, as I've..."
 ---
 
 ### English

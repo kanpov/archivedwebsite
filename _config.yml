@@ -1,66 +1,52 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Kanpov
+# Core Settings
+title: Kanpov's Hub
 email: karpovanton729@gmail.com
 description: >-
-  A website hosting my articles, newsletter, projects and much more
+  A website hosting my articles, newsletter, projects and much more!
 baseurl: ""
 url: ""
-github_username: kanpov
+search: true
 
-author:
-  name: kanpov
-  email: "karpovanton729@gmail.com"
-
-minima:
-  skin: dark
-  social_links:
-    github: kanpov
-
-# Build settings
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-
+# Content Settings
 collections:
   articles:
     output: true
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+paginate_path: /page:num/
+paginate: 3
+
+# Styling Settings
+minimal_mistakes_skin: dark
+
+author:
+  name: "Karpov Anton"
+  bio: "Formerly developed Minecraft mods and 2D games, currently learning 3D game development and 3D art."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kanpov/"
+    - label: "Newsletter"
+      icon: "fas fa-fw fa-link"
+      url: "https://kanpov.github.io/feed.xml"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/kanpov/"
+
+# System Settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+
+exclude:
+  - .idea
+  - .jekyll-cache
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
