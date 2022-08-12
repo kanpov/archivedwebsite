@@ -99,8 +99,3 @@ excerpt: "Implemented the repair system, made some minor improvements and added 
 - My initial stack is [Unity](https://unity.com), [JetBrains Rider](https://www.jetbrains.com/rider/) and
   [Blender](https://blender.org)
 - Next week, I'm going to start learning 3D graphics in [Blender](https://blender.org)
-- A side note about competitive programming:
-  - I've encountered some serious critique regarding the WorldSkills VR+AR qualification ([link](https://habr.com/ru/post/652423/))
-    - It made me reconsider whether it'd be worth it to go back there once again and made me look for other options
-    - A particularly interesting one was [NTO](https://ntcontest.ru) 8-11 grades, which has many objective benefits
-  - I haven't settled on the competition just yet, but that's not really the point here

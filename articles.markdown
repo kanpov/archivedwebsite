@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /articles/
+title: "My Articles"
 ---
 
 <ul class="taxonomy__index">

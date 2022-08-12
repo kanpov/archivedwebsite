@@ -1,6 +1,7 @@
-# main links
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "Newsletter"
+    url: /newsletter/
   - title: "Articles"
     url: /articles/
+  - title: "Projects"
+    url: /projects/

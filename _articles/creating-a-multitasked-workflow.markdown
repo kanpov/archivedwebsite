@@ -123,7 +123,7 @@ This method has worked wonderfully and has eliminated my main concern with multi
 at the sheer amount of tasks and having these tasks isolated and, as a result, disorganized. Here is a visual 
 representation of how this could look like:
 
-**TODO**: add back image here.
+![An example of the mega-map approach](/cdn/20220714/MegamapExample.png)
 
 ## Conclusion
 

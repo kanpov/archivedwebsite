@@ -32,9 +32,9 @@ excerpt: "This post is a week later than usual, mainly because these past two we
         - An automated publishing process (almost instantaneous delivery of emails)
         - Complete mirroring of the website's styling and content (no differences between the email & website version)
         - An archive of _all_ posts available within the feed, even older than 0.8
-    - To migrate, follow the instructions at the top of the [newsletter page](https://kanpov.github.io/newsletter)
+    - To migrate, follow the instructions at the top of the [newsletter page]({% link newsletter.markdown %})
 - Thirdly, the language learning article has been finished and largely renovated
-    - It is the first addition to the articles section of the website and is available at [this location](https://kanpov.github.io/articles/the-happy-medium-of-language-learning.html)
+    - It is the first addition to the articles section of the website and is available at [this location]({% link _articles/the-happy-medium-of-language-learning.markdown %})
     - Feel free to email me and give me some feedback on the contents
 - Lastly, I've started working on a new article about productivity, which should be available next week
 

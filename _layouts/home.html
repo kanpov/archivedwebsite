@@ -1,0 +1,33 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% assign articles = site.articles %}
+
+{% if paginator %}
+{% assign posts = paginator.posts %}
+{% else %}
+{% assign posts = site.posts %}
+{% endif %}
+
+<h2>Recent Posts</h2>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+    {% endfor %}
+</div>
+
+<br>
+
+<h2>Recent Articles</h2>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+    {% for article in articles %}
+    {% include archive-single-article.html type=entries_layout %}
+    {% endfor %}
+</div>

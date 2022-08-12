@@ -76,20 +76,20 @@ excerpt: "My studies are finally over, so I'm pretty much working full-time now 
     visually appealing plants
   - It took me two days to finish it and another three days to redo it two times
 - Here is the result (definitely a step up from the last room):
-![Final rendered image of the living room](https://kanpov.github.io/cdn/20220606/LivingRoomRender.png)
+![Final rendered image of the living room](/cdn/20220606/LivingRoomRender.png)
 - For the remaining few days of the week, I decided to start my first original project
   - The inspiration for it was 3DGreenhorn's [paid course](https://3dgreenhorn.gumroad.com/l/stylizedrooms) about
     creating such stylized rooms
   - The free part of it was the above-mentioned room
   - Even though I'm unable to buy it, there's a reference image on the promo page with a combined render of all four
     rooms:
-![4 rendered images of rooms combined into one](https://kanpov.github.io/cdn/20220606/CombinedRoomReferences.png)
+![4 rendered images of rooms combined into one](/cdn/20220606/CombinedRoomReferences.png)
   - I figured creating the three other rooms on my own based off of this image's splits would be great practice
   - I settled on the bedroom as the first project since it was the simplest in terms of shapes. Here's how it's going to
     look:
-![Reference of the bedroom](https://kanpov.github.io/cdn/20220606/BedroomReference.png)
+![Reference of the bedroom](/cdn/20220606/BedroomReference.png)
   - Here's a sneak-peek of the progress:
-![Current status of the bedroom](https://kanpov.github.io/cdn/20220606/BedroomCurrentStatus.png)
+![Current status of the bedroom](/cdn/20220606/BedroomCurrentStatus.png)
 
 ### Programming
 

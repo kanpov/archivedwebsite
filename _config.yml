@@ -15,6 +15,30 @@ collections:
 paginate_path: /page:num/
 paginate: 3
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _articles
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 # Styling Settings
 minimal_mistakes_skin: dark
 
@@ -50,3 +74,5 @@ exclude:
   - .gitignore
   - Gemfile
   - Gemfile.lock
+  - _site
+  - .git
