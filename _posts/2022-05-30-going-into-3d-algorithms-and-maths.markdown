@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "0.4: Going into 3D, Algorithms and Math"
 date: 2022-05-30 +0300
 excerpt: "As promised, I've started my path to becoming a 3D game development by going into multiple directions at once..."

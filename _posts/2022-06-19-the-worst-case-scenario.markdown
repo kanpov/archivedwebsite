@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "0.7: The Worst-Case Scenario"
 date: 2022-06-19 +0300
 excerpt: "I've finished the series of rooms I've been chipping away at ever since NL0.4..."

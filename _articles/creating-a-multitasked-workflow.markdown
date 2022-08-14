@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Creating a Multitasked Workflow"
 date: 2022-07-14 +0300
 excerpt: "This article aims to tackle the complex subject of setting up and maintaining an efficient and productive

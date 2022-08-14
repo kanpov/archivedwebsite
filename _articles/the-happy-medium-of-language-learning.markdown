@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "The Happy Medium of Language Learning"
 date: 2022-06-30 +0300
 excerpt: "The resources surrounding language learning are immense, and yet so many people struggle with it..."

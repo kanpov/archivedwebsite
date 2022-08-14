@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "0.1: New Project, Website and Journal"
 date: 2022-05-08 +0300
 excerpt: "On May 12th this year I temporarily stopped journaling. This was for a variety of reasons..."

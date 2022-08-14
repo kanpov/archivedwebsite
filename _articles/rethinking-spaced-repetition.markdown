@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Rethinking Spaced Repetition"
 date: 2022-07-26 +0300
 excerpt: "If you've ever wanted to learn a foreign language, then you've gone through the painful process of

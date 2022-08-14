@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "0.9: Establishing a New Workflow"
 date: 2022-07-10 +0300
 excerpt: "This post is a week later than usual, mainly because these past two weeks have been very turbulent..."

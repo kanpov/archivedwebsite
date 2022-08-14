@@ -31,3 +31,17 @@ layout: archive
     {% include archive-single-article.html type=entries_layout %}
     {% endfor %}
 </div>
+
+<h2>Maven Repository</h2>
+
+<p>This website also hosts my <b>Maven repository</b> that contains artifacts for my Fabric Java and Kotlin libraries.
+<br><br>To include it, add the following into your build script (<i>build.gradle</i>):
+</p>
+
+{% highlight groovy %}
+repositories {
+    maven {
+        url = "https://kanpov.github.io/maven/"
+    }
+}
+{% endhighlight %}
