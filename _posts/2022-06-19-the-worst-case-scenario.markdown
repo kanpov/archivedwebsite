@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "0.7: The Worst-Case Scenario"
 date: 2022-06-19 +0300
+excerpt: "I've finished the series of rooms I've been chipping away at ever since NL0.4..."
 ---
 
 ### Language Learning
@@ -28,8 +28,8 @@ date: 2022-06-19 +0300
   - It took the most time of all the rooms: 4 days
   - Nevertheless, the modeling was successful, and the lighting and materials were decent
   - The first image below is my result, the second one is the reference which I used for making the scene:
-![Rendered image of the kitchen](https://kanpov.github.io/cdn/20220619/KitchenRender.png)
-![Reference image for the kitchen](https://kanpov.github.io/cdn/20220619/KitchenReference.png)
+![Rendered image of the kitchen](/cdn/20220619/KitchenRender.png)
+![Reference image for the kitchen](/cdn/20220619/KitchenReference.png)
 - After a brief search, I decided to use [3DGreenhorn](https://www.youtube.com/c/3DGreenhorn)'s fast
   [tutorial series](https://www.youtube.com/playlist?list=PL0t8o5_UDu0FbhWEhQthAol93Hi2LvwJj)
   - After completing all of 3DGreenhorn's room projects (3 of them on my own), I had a decent grasp of the basics of
@@ -45,8 +45,8 @@ date: 2022-06-19 +0300
     - Using ico-spheres for making trees and rocks
   - The first image shows my first render made after following the tutorial and then my second render, for which
     I completely replicated the former project (to practice through repetition):
-![First render using the tutorial](https://kanpov.github.io/cdn/20220619/WaterTankPass1.png)
-![Second render made on my own](https://kanpov.github.io/cdn/20220619/WaterTankPass2.png)
+![First render using the tutorial](/cdn/20220619/WaterTankPass1.png)
+![Second render made on my own](/cdn/20220619/WaterTankPass2.png)
 - The second video, which I have started working on, is a
  [tutorial](https://www.youtube.com/watch?v=waRfT1TF1oE&list=PL0t8o5_UDu0FbhWEhQthAol93Hi2LvwJj&index=11) 
  on making a scene with a beacon and light house
@@ -61,7 +61,7 @@ date: 2022-06-19 +0300
     - Glass materials in combination with an inner emissive material to create glowing surfaces
     - Using a smoothed-out plane as the background
   - Here's the render I made from following along with the tutorial (currently working on the recreation):
-![Render of the lighthouse scene](https://kanpov.github.io/cdn/20220619/LightHouseRender.png)
+![Render of the lighthouse scene](/cdn/20220619/LightHouseRender.png)
 
 ### Algebra
 
@@ -99,13 +99,12 @@ date: 2022-06-19 +0300
 
 - As a long term goal, I've decided to try to participate in various other competitive programming
 olympiads
-  - Most notably, [NTO](https://ntcontest.ru) VR, which I see as a successor of WorldSkills due to
-  various objective benefits
+  - Most notably, [NTO](https://ntcontest.ru) VR
     - Unfortunately, I can't participate in it until I enter the 8th grade, so that's only going to
     be in 2023-2024
     - Though, that gives me more time to prepare
   - I might participate in WorldSkills again in the VR section as a stepping stone to NTO
-  - Another less VR-oriented option is [VOS](https://vos.olimpiada.ru), which is a solely mathematic and algorithmic olympiad
+  - Another less VR-oriented option is [VOS](https://vos.olimpiada.ru), which is solely a mathematic and algorithmic olympiad
 - Because of the situation that has formed ever since the 24th of February, I might not be able to act on my original plan of going
  to study in Germany (which is what I've been learning German for)
   - Due to the specifics of my country's education system, there's essentially a final test after

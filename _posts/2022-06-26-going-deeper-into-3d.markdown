@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "0.8: Going Deeper into 3D"
 date: 2022-06-26 +0300
+excerpt: "Firstly, I re-did the lighthouse scene from the last post..."
 ---
 
 ### English
@@ -41,7 +41,7 @@ date: 2022-06-26 +0300
 ### 3D Graphics
 
 - Firstly, I re-did the lighthouse scene from the last post, which was pretty successful:
-![The rendered image of the redone lighthouse scene]({% link cdn/20220626/RedoneLighthouseRender.png %})
+![The rendered image of the redone lighthouse scene](/cdn/20220626/RedoneLighthouseRender.png)
 - Afterwards, I moved onto a new project from the tutorial series: the well scene
     - The scene is not that fancy, but I learned some pretty useful modeling techniques from it:
         - Archimedian Curves from the _Extra Curves_ addon
@@ -55,8 +55,8 @@ date: 2022-06-26 +0300
          create the full shape
     - Here are the two images I got from the two passes (first pass is from following along with the
      tutorial, second one on my own):
-![The first render of the well scene]({% link cdn/20220626/WellRender.png %})
-![The second render of the well scene]({% link cdn/20220626/RedoneWellRender.png %})
+![The first render of the well scene](/cdn/20220626/WellRender.png)
+![The second render of the well scene](/cdn/20220626/RedoneWellRender.png)
 - Lastly, I took on arguably the most complicated project I've done so far: the coffee shop
     - The scene has a lot of small details and I learned a lot from doing it
     - This was the most time-consuming project so far: the first pass took me 4 days and the second
@@ -71,8 +71,8 @@ date: 2022-06-26 +0300
         - Extruding Text objects
         - Using the _Spin_ tool to curve faces along a certain axis
     - Here are two renders:
-![The first render of the coffee shop scene]({% link cdn/20220626/CoffeeShopRender.png %})
-![The second render of the coffee shop scene]({% link cdn/20220626/RedoneCoffeeShopRender.png %})
+![The first render of the coffee shop scene](/cdn/20220626/CoffeeShopRender.png)
+![The second render of the coffee shop scene](/cdn/20220626/RedoneCoffeeShopRender.png)
 
 ### Competitive Programming
 

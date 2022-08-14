@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "0.2: Implementing ResourceRun's Gameplay Loop"
 date: 2022-05-15 +0300
+excerpt: "I wanted to make some clarifications in this status update about my journaling method..."
 ---
 
 ## Journaling

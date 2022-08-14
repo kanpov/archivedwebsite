@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "1.10: Tackling Larger Projects"
 date: 2022-07-24 +0300
+excerpt: "Firstly, as you may have noticed, this post is a week late like the last one (NL0.9), and it is due to..."
 ---
 
 ## Journaling

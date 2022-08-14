@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "0.6: First Accomplishments in 3D"
 date: 2022-06-13 +0300
+excerpt: "This week I've so far been the most proud of in terms of my progress in learning 3D art/graphics, as I've..."
 ---
 
 ### English
@@ -59,10 +59,10 @@ date: 2022-06-13 +0300
     - After finishing the project, I learned from my mistakes and picked the colors manually for the next project,
       which turned out better in terms of colors
 - Here's my result:
-![The rendered image of the bedroom scene](https://kanpov.github.io/cdn/20220613/BedroomRender.png)
+![The rendered image of the bedroom scene](/cdn/20220613/BedroomRender.png)
 - In contrast to the reference image pinned below my result looks visibly worse, but this was my first ever
   original project, so I guess this wasn't anything out of the ordinary:
-![The original reference image of the bedroom scene](https://kanpov.github.io/cdn/20220613/BedroomReference.png)
+![The original reference image of the bedroom scene](/cdn/20220613/BedroomReference.png)
 - As my second project for the week, I took the bathroom from the same series
   - There were much more complex (e.g. non-rectangular) shapes, like the mirror, sink and the objects on the table
   - This room took me longer to create due to these difficulties, but it turned out relatively successful
@@ -76,12 +76,12 @@ date: 2022-06-13 +0300
     - This time, I turned on high contrast and started picking the colors myself
     - With some saturation manipulation I tweaked everything a bit, and it turned out nicely
 - Here's the resulting render:
-![The rendered image of the bathroom scene](https://kanpov.github.io/cdn/20220613/BathroomRender.png)
+![The rendered image of the bathroom scene](/cdn/20220613/BathroomRender.png)
 - The reference image is still better, but I think this was a significant step-up from the last project's quality:
-![The reference image for the bathroom scene](https://kanpov.github.io/cdn/20220613/BathroomReference.png)
+![The reference image for the bathroom scene](/cdn/20220613/BathroomReference.png)
 - I also would like to draw special attention to the drawer, as it was one of the most detailed parts of the scene
   (don't mind the bug with the metallic effect, it only occurs in the isolated view of the drawer):
-![The rendered image solely of the drawer, zoomed in](https://kanpov.github.io/cdn/20220613/BathroomDrawer.png)
+![The rendered image solely of the drawer, zoomed in](/cdn/20220613/BathroomDrawer.png)
 
 ### Programming
 
