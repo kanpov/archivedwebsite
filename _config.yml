@@ -27,6 +27,7 @@ defaults:
       comments: false
       share: true
       related: true
+      classes: wide
   # _articles
   - scope:
       path: ""
@@ -38,6 +39,7 @@ defaults:
       comments: false
       share: true
       related: true
+      classes: wide
 
 # Styling Settings
 minimal_mistakes_skin: dark
