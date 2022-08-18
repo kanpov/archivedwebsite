@@ -48,9 +48,9 @@ at the time.
 
 My schedule loosened in January and February 2022, but in March I was forced to dedicate almost all of my time to
 preparing for the final round of the competition, so I quit journaling for a few months and decided to rethink my
-approach to journaling.
+approach.
 
-### Work-Oriented Journaling
+## Work-Oriented Journaling
 
 At that point in May I was thinking about how I could start journaling again, as I finally had enough time to do so,
 and I came to a few conclusions based on my experience:
@@ -76,18 +76,51 @@ _"Why am I doing this?"_, _"What have I accomplished?"_, _"What am I really work
 work journal makes you constantly answer. Having a strong foundation, a sense of meaning is invaluable to completing
 your projects and achieving your goals.
 
-### Principles of Work-Oriented Journaling
+## Setting Up a Work Journal
 
-To facilitate the efficiency of work-oriented journaling, I have developed a set of principles as a guide to maintaining
-your own work journal:
+To demonstrate how a work journal may look like, I'm going to provide the example of my own work journal that is hosted
+on this website - [the newsletter]({% link newsletter.markdown %}).
 
-1. A work journal is intentionally volatile. It has no explicit schedule and is only based on your will to write and the
-   progress you manage to make. My personal rule is to release a new post as soon as I have enough work that I'm proud
-   of to write about and show off. Such an approach in combination with passion for writing would establish a
-   relationship between your volume of progress and ability to write, adding another factor to boost your motivation.
-2. A work journal should be versioned to keep track of changes you make to your writing style and encourage those
-   changes to be made when needed. I suggest using an `f.n` versioning system, where `f` is the format version and `n`
-   is the number of the post (for example, in my latest post at the time I'm writing this is 1.10, where
-   `f`=1 and `n`=10). Everything in a work journal can be volatile, and a versioning system helps you keep track of your
-   journal's evolution over time.
-3. To be continued.
+The workflow I use is powered by the [Jekyll](https://jekyllrb.com) static site generator. Jekyll operates on different
+types of text files and transforms them into special web files like HTML, CSS and JavaScript that are then deployed
+onto this domain using [GitHub Pages](https://pages.github.com/). GitHub Pages is a free hosting provider that automates
+the deployment process and improves the workflow with a version control system called [Git](https://git-scm.com/).
+
+The main type of those text files is [Markdown](https://www.markdownguide.org/getting-started/), a robust and
+easy-to-use markup language that allows you to write and style your text (bold, strikethrough, lists, headings and much
+more) without using an unreadable proprietary format like Microsoft Word. This means that my writing is entirely
+future-proof, since you don't even need special software to read and write Markdown because it is based on plain text,
+and there are hundreds of Markdown editors to make editing quicker. To get a grasp of how Markdown looks like, see how
+[this post](https://raw.githubusercontent.com/kanpov/kanpov.github.io/main/_articles/journaling-to-cultivate-work-ethic.markdown)
+looks like as plain text.
+
+So, all the posts, articles and other content on the website is written in Markdown. Posts and articles are stored in
+their own directories, allowing Jekyll to easily distinguish them from one another and other pages. Every post and
+article has special information attached to the top of it: the title, time of publishing and an excerpt. Using this
+information, the posts and articles can be displayed on the homepage and their dedicated pages.
+
+Your setup doesn't matter much to the quality of your journal, but if you want to publish your journal onto the web as
+a sort of blog, this might work for you.
+
+## Maintaining a Work Journal
+
+Work journaling is fundamentally volatile. Your journal should only be based on your will to write and the progress you
+manage to make, not on the schedule you want to establish. Setting goals and standards is generally beneficial, but I
+believe it only hinders your journaling and writing in general, making you sacrifice quality to keep up with a schedule.
+
+My personal rule is to release a new post as soon as I have enough work that I'm proud enough of to write about and
+show off. Such an approach in combination with a passion for writing would establish a relationship between your volume
+of progress and ability to write, adding another factor to boost your motivation.
+
+A work journal can also be versioned to keep track of changes you make to your writing style and encourage those
+changes to be made when needed. I suggest using an `f.n` versioning system, where `f` is the format version and `n`
+is the number of the post (for example, in my latest post at the time I'm writing this is 1.10, where `f`=1 and `n`=10).
+Since work journals are volatile, a versioning system can help you record your journal's evolution over time.
+
+## Incorporating Organizational Tools
+
+**Under construction**.
+
+## Conclusion
+
+**Under construction**.
