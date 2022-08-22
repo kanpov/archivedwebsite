@@ -1,7 +1,7 @@
 ---
 title: "1.11: Wrapping Up the Summer"
 date: 2022-08-21 +0300
-excerpt: "Excerpt not available yet"
+excerpt: "Such a post frequency might not be ideal, but as you may have noticed by my track record, I tend to prioritize..."
 ---
 
 ## Preface
