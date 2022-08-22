@@ -45,7 +45,7 @@ defaults:
 minimal_mistakes_skin: dark
 
 author:
-  name: "Karpov Anton"
+  name: "kanpov"
   bio: "Formerly developed Minecraft mods and 2D games, currently learning 3D game development and 3D art."
   links:
     - label: "GitHub"

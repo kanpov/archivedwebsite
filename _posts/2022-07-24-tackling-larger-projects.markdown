@@ -139,16 +139,13 @@ excerpt: "Firstly, as you may have noticed, this post is a week late like the la
   [this file](https://github.com/kanpov/3DProjects/blob/main/19_LargeCastle/Credits.txt) as well):
   - [Olbert's Low Poly Castle](https://www.unrealengine.com/marketplace/en-US/product/olbert-s-low-poly-castle) asset
     on the Unreal Engine Marketplace partially for the center of the castle:
-  ![The top view of the referenced castle](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/Reference_TopView.png)
-  ![The side view of the referenced castle](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/Reference_SideView.png)
-  - [Low Poly Medieval Buildings Pack](https://sketchfab.com/3d-models/low-poly-medieval-buildings-pack-part-1-33ef8ae21a3c4ac59b51995f1d40b3f6)
-    on SketchFab for the concept of an outer area for the castle:
-  ![A screenshot from the SketchFab 3D explorer](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/Reference_FullEnvironment.jpg)
+  ![The top view of the referenced castle](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/References/CentralArea/CenterTopView.png)
+  ![The side view of the referenced castle](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/References/CentralArea/CenterSideView.png)
   - [Olbert's Low Poly Medieval Town](https://www.unrealengine.com/marketplace/en-US/product/olbert-s-low-poly-medieval-town)
     asset on the Unreal Engine Marketplace partially for the architecture of the outer area
     (more specifically Fachwerk houses):
-  ![The broken down modular assets from the pack](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/Reference_HouseModules.png)
-  ![The full top view of the medieval town](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/Reference_MedievalTown.png)
+  ![The broken down modular assets from the pack](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/References/Housing/FachwerkModules.png)
+  ![The full top view of the medieval town](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/References/Housing/FachwerkEnvironment1.png)
 - As for the progress I'm currently in the modeling stage and have completed several areas and key parts that I can
   already show off:
   - The central part of the castle with the central block and the towers connected to it:

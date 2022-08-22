@@ -39,7 +39,7 @@ started to change as I sunk deeper into a year-long game development competition
 of my free time to preparing for the next round. The frequency of my posts declined, so I switched to making weekly
 notes, but constantly shifted the schedule back and forth as my time budget and motivation grew and declined.
 
-In late November, I was getting tired of this never-ending process and found about an incredibly simple command-line
+In late November, I was getting tired of this never-ending process and found out about an incredibly simple command-line
 program called [jrnl.sh](https://jrnl.sh) that granted me more freedom and dynamism in my journaling schedule. The way
 it works is simple: type `jrnl {sentence}` into the command-line (where _{sentence}_ is a new fact or achievement), and
 it will log the sentence into a plain-text journal file alongside the exact date and time. The program provides various

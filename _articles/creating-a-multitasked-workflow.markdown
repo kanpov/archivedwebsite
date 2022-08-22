@@ -36,7 +36,7 @@ part of their day-to-day workflow.
 
 ## The Hidden Cost of Productivity Apps
 
-A lot of the time when I browse online for productivity advice online, I seem to encounter people that often tend to
+A lot of the time when I browse for productivity advice online, I seem to encounter people that often tend to
 obstruct their creative workflow with complexity that doesn't pay off.
 
 Productivity-related applications and methods take up a significant portion of your time, be it creating cards in a
