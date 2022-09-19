@@ -84,7 +84,7 @@ schedule I forced upon myself.
 
 This was entirely unsustainable and stressful in the long-term since it is impossible to maintain a constant standard of
 progress and productivity over a long period of time, which is especially relevant when not working full-time. That's
-why I think consistency is only harmful 
+why I think consistency is only harmful (FIX THIS).
 
 ### II. Introducing Work-Oriented Journaling
 
@@ -133,7 +133,7 @@ work of getting your content to the Internet for you.
 In Jekyll, the input file format is called [Markdown](https://www.markdownguide.org/getting-started/), a robust and
 easy-to-use markup language that allows you to write and style your text without using a proprietary format like
 Microsoft Word's `.docx`. This means that your writing will be entirely future-proof, as Markdown is just a simple text
-file with extra syntax on top. To get a grasp of how Markdown looks like, see how
+file with extra syntax on top. To get a grasp of what Markdown looks like, see what
 [this post](https://raw.githubusercontent.com/kanpov/kanpov.github.io/main/_articles/journaling-to-cultivate-work-ethic.markdown)
 looks like before being processed by Jekyll.
 
