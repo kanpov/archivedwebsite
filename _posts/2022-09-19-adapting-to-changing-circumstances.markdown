@@ -1,7 +1,7 @@
 ---
 title: "1.12: Adapting to Changing Circumstances"
 date: 2022-09-19 +0300
-excerpt: "Excerpt not available yet"
+excerpt: "Admittedly, it's been quite a while since the release of the last post, almost exactly a month, in fact"
 ---
 
 ## Preface
