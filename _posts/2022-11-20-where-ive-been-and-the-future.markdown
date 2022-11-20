@@ -1,7 +1,8 @@
 ---
 title: "1.13: Where I've Been & The Future"
 date: 2022-11-20 +0300
-excerpt: "Excerpt not available yet"
+excerpt: "As partially mentioned in NL1.12, I successfully applied to prepare for programming and English olympiads and began
+studying shortly after..."
 ---
 
 ## Preface
