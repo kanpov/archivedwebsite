@@ -86,12 +86,12 @@ excerpt: "Such a post frequency might not be ideal, but as you may have noticed 
 - Since NL1.10, I've also been focusing a ton on resuming my efforts of trying to learn competitive programming.
 - I've decided to switch from C++ to Python as my main competitive programming language for a variety of reasons:
   - C++'s standard library lacked or obscured tons of fundamental features, such as extensive string manipulation,
-    iterator utilities, collection tools like Python's `map`, `filter`, `any`, `all`, `zip`, `enumerate` and others
+    iterator utilities, collection tools like Python's `map`, `filter`, `any`, `all`, `zip`, `enumerate` and others.
   - C++ heavily compromises on speed of writing code for the sake of runtime performance, but I believe being able to
-    quickly prototype algorithms in invaluable in a competitive context
-  - There are much more learning resources for Python provided by the competitions that I'm trying to participate in
+    quickly prototype algorithms is invaluable in a competitive context.
+  - There are much more learning resources for Python provided by the competitions that I'm trying to participate in.
 - So, I've taken two multi-month courses on [Stepik](https://stepik.org) for learning Python that cover various basic
-  and intermediate topics
+  and intermediate topics.
 - The first course goes through the basics of programming, so I flew through it pretty easily:
   - Console I/O and simple arithmetic
   - Branching and basic data types
@@ -111,4 +111,4 @@ excerpt: "Such a post frequency might not be ideal, but as you may have noticed 
   - Tools for working with collections: `map`, `functools.reduce`, `filter`, `any`, `all`, `zip`, `enumerate` etc.
   - Basic file I/O
 - So, I've put the better part of two weeks into going through these courses, and I'm going to focus on competitive
-  programming on the side for the next few weeks or so
+  programming on the side for the next few weeks or so.

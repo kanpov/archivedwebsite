@@ -44,7 +44,7 @@ excerpt: "Admittedly, it's been quite a while since the release of the last post
   - Since I'm heavily above average at English, I figured I'd try that out as well, and it'd be great practice as I
     cancelled out on my former English tutoring.
   - The English lessons have already started, but CP hasn't yet, so I've decided to only elaborate on this when I have
-    information to make an objective conclusion.
+    enough information to make an objective conclusion.
 
 ## German
 
@@ -59,7 +59,7 @@ excerpt: "Admittedly, it's been quite a while since the release of the last post
   - At this stage, I've only introduced reading (as I mentioned in some of my previous articles), and have tried to
     make reading in German a part of my daily routine.
   - However, as time goes on, I'll add more methods of passive study and use of the language.
-- In terms of regular studying, I don't have much to show off, but I've of course been working on them as usual.
+- In terms of regular studying, I don't have much to show off, but I've of course been working on it as usual.
 
 ## 3D Castle
 
@@ -67,7 +67,7 @@ excerpt: "Admittedly, it's been quite a while since the release of the last post
   scrambled to a halt over the course of the past few weeks:
   - The project started out on a quick pace, and I managed to get the general layout of the castle (the center, inner
     and outer walls) done in under a week.
-  - Things slowed down as I painstakingly searched for references and developed a modular collection of house parts sp
+  - Things slowed down as I painstakingly searched for references and developed a modular collection of house parts
     as to create the housing inside the castle.
   - The same slow and somewhat boring process had to be performed again with even more variation to create the detailed
     marketplace in the castle front area.
@@ -81,7 +81,7 @@ excerpt: "Admittedly, it's been quite a while since the release of the last post
       the pieces manually, which turned out to a huge mistake.
   - So my motivation completely died out, and I turned to my side project and halted all work on the castle for now.
 - So, not much has changed about the castle since NL1.11 (aside from a repositioning of the marketplace tents):
-![The current status of the castle project](https://cdn.upload.systems/uploads/u1IcyC5F.png)
+![The current status of the castle project](/cdn/20220919/CastleStatus.png)
 
 ## 3D Port Town
 
@@ -89,7 +89,7 @@ excerpt: "Admittedly, it's been quite a while since the release of the last post
   reason for this post's relatively early release.
 - While I was browsing [Behance](https://behance.net) looking for a side project idea, I found this artwork by Yaroslav
   Adamov and decided to recreate it:
-![The inspiration for my port town project](https://github.com/kanpov/3DProjects/raw/main/20_PortTown/Reference.png)  
+![The inspiration for my port town project](https://github.com/kanpov/Blender_Public/raw/main/20_PortTown/Reference.png)  
 - First, I created the base port alongside the foundation and some decorations sprinkled in:
 ![Progress image 1](/cdn/20220919/PortTown1.png)
 - Then, I recreated all buildings one by one, trying to replicate as much detail as possible:
@@ -99,10 +99,10 @@ excerpt: "Admittedly, it's been quite a while since the release of the last post
 - Afterwards, I added more decorations and smaller details to the scene:
 ![Progress image 5](/cdn/20220919/PortTown5.png)
 - And after adding a camera, materials and lighting the scene I got this result:
-![The final render with 30% compression](https://github.com/kanpov/3DProjects/raw/main/20_PortTown/RenderCompressed.png)
+![The final render with 30% compression](https://github.com/kanpov/Blender_Public/raw/main/20_PortTown/RenderCompressed.png)
 - The image above even with 30% compression weighs ~17MB, because I rendered the scene in 4K to capture more detail and
-  try out tiled rendering. To download the uncompressed highly detailed image, download from
-  [this link](https://github.com/kanpov/3DProjects/raw/main/20_PortTown/Render.png).
+  try out tiled rendering. To download the uncompressed highly detailed image, click
+  [this link](https://github.com/kanpov/Blender_Public/raw/main/20_PortTown/Render.png).
 - To be fair, my result still looks noticeably worse than the original, primarily due to my inexperience in good
   lighting and shading, but I'm still proud of what I've managed to accomplish with this project.
 - Once again I'd like to reiterate that this was not an original project, so full credit goes to 

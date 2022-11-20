@@ -55,7 +55,7 @@ excerpt: "This post is a week later than usual, mainly because these past two we
 
 ### 3D Graphics
 
-- Firstly, I've made all of my 3D projects public over [here](https://github.com/kanpov/3DProjects) at GitHub
+- Firstly, I've made all of my 3D projects public over [here](https://github.com/kanpov/Blender_Public) at GitHub
     - The repository contains number-prefixed folders, each representing one of my projects (it dates back to late May)
     - The folders contain the `.blend` file, which you can download and play around with and a rendered `.png`
     - I redo some of the projects, so the structure for those projects is (_X_ is the project's name):
@@ -75,8 +75,8 @@ excerpt: "This post is a week later than usual, mainly because these past two we
          and _Project Individual Elements_ options enabled)
         - Subdividing geometry with the _Fractal_ option (a multiplier that distorts the resulting vertices)
     - Renders (now are links to the GitHub repository instead of hosting the images here because it's less work):
-![The first render](https://github.com/kanpov/3DProjects/raw/main/11_ToastShop/Render.png)
-![The second render](https://github.com/kanpov/3DProjects/raw/main/11_ToastShop/RedoneRender.png)
+![The first render](https://github.com/kanpov/Blender_Public/raw/main/11_ToastShop/Render.png)
+![The second render](https://github.com/kanpov/Blender_Public/raw/main/11_ToastShop/RedoneRender.png)
 - The next project was the birdhouse, but I couldn't finish it because the tutorial was severely incomplete
     - Though, I learnt a lot simply from modeling it
 - Project II: **Mushroom House**
@@ -85,8 +85,8 @@ excerpt: "This post is a week later than usual, mainly because these past two we
         - Subdivide + Proportional Editing combination to deform shapes into rocks etc.
     - Generally, this was more of a practice project, so it wasn't necessarily hard to make
     - Renders:
-![The first render](https://github.com/kanpov/3DProjects/raw/main/13_MushroomHouse/Render.png)
-![The second render](https://github.com/kanpov/3DProjects/raw/main/13_MushroomHouse/RedoneRender.png)
+![The first render](https://github.com/kanpov/Blender_Public/raw/main/13_MushroomHouse/Render.png)
+![The second render](https://github.com/kanpov/Blender_Public/raw/main/13_MushroomHouse/RedoneRender.png)
 - Project III: **Castle**
     - New techniques learned:
         - Using _Object Offset_ in the _Array_ modifier to loop an object using an _Empty_'s transformations
@@ -99,8 +99,8 @@ excerpt: "This post is a week later than usual, mainly because these past two we
     - I learned the most about using curves in practice, and it's definitely one of the most commonly-needed techniques
       I've learned so far
     - Renders:
-![The first render](https://github.com/kanpov/3DProjects/raw/main/14_Castle/Render.png)
-![The second render](https://github.com/kanpov/3DProjects/raw/main/14_Castle/RedoneRender.png)
+![The first render](https://github.com/kanpov/Blender_Public/raw/main/14_Castle/Render.png)
+![The second render](https://github.com/kanpov/Blender_Public/raw/main/14_Castle/RedoneRender.png)
 - Project IV: **Treehouse** (my proudest creation so far)
     - New Techniques learned:
         - The _Normal_ transform orientation (uses directions of geometry to apply movement/rotation/scale)
@@ -115,8 +115,8 @@ excerpt: "This post is a week later than usual, mainly because these past two we
         - Snapping the active object to the 3D cursor (I have no clue why I hadn't known about this before)
         - Custom lighting colors
     - Renders (this is definitely going into my portfolio):
-![The first render](https://github.com/kanpov/3DProjects/raw/main/15_Treehouse/Render.png)
-![The second render](https://github.com/kanpov/3DProjects/raw/main/15_Treehouse/RedoneRender.png)
+![The first render](https://github.com/kanpov/Blender_Public/raw/main/15_Treehouse/Render.png)
+![The second render](https://github.com/kanpov/Blender_Public/raw/main/15_Treehouse/RedoneRender.png)
 - Overall, these past few weeks were quite productive, but I focused less on other fields, so there won't be as
   much to show off
 

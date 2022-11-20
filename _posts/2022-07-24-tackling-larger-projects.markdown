@@ -72,11 +72,11 @@ excerpt: "Firstly, as you may have noticed, this post is a week late like the la
 
 ### Project I. Doghouse
 
-![The first render](https://github.com/kanpov/3DProjects/raw/main/16_Doghouse/Render.png)
+![The first render](https://github.com/kanpov/Blender_Public/raw/main/16_Doghouse/Render.png)
 
 ---
 
-![The second render](https://github.com/kanpov/3DProjects/raw/main/16_Doghouse/RedoneRender.png)
+![The second render](https://github.com/kanpov/Blender_Public/raw/main/16_Doghouse/RedoneRender.png)
 
 - This was a small practice project from the tutorial series, so I didn't learn much.
 - New techniques learned:
@@ -85,11 +85,11 @@ excerpt: "Firstly, as you may have noticed, this post is a week late like the la
 
 ### Project II. Beach Terrarium
 
-![The first render](https://github.com/kanpov/3DProjects/raw/main/17_BeachTerrarium/Render.png)
+![The first render](https://github.com/kanpov/Blender_Public/raw/main/17_BeachTerrarium/Render.png)
 
 ---
 
-![The second render](https://github.com/kanpov/3DProjects/raw/main/17_BeachTerrarium/RedoneRender.png)
+![The second render](https://github.com/kanpov/Blender_Public/raw/main/17_BeachTerrarium/RedoneRender.png)
 
 - This was one of my prettiest creations so far: it features a glass bottle with a beach inside
 - New techniques learned:
@@ -106,9 +106,9 @@ excerpt: "Firstly, as you may have noticed, this post is a week late like the la
   - The beach terrarium project was the last project from 3DGreenhorn's tutorial series.
   - After completing it, I decided to venture outside using tutorials and work on some original projects, the first one
     of which is the following low poly village (though, this one specifically was made from
-    [reference](https://github.com/kanpov/3DProjects/raw/main/18_LowPolyVillage/Reference.png)):
+    [reference](https://github.com/kanpov/Blender_Public/raw/main/18_LowPolyVillage/Reference.png)):
 
-![The final render](https://github.com/kanpov/3DProjects/raw/main/18_LowPolyVillage/Render.png)
+![The final render](https://github.com/kanpov/Blender_Public/raw/main/18_LowPolyVillage/Render.png)
 
 - This project gave me a chance to practice my low-poly skills (this style is low-poly + edge bevel) on a project that
   is significantly larger than what I usually make.
@@ -125,7 +125,7 @@ excerpt: "Firstly, as you may have noticed, this post is a week late like the la
     - Lamps that actually glow due to having an emission BSDF material
 - This was a pretty beefy project that took about 3 days of 4-5 hours of work each (approximately 15 hours in total),
   the modeling was quite enjoyable but the shading and lighting didn't turn out too well compared to the
-  [reference](https://github.com/kanpov/3DProjects/raw/main/18_LowPolyVillage/Reference.png).
+  [reference](https://github.com/kanpov/Blender_Public/raw/main/18_LowPolyVillage/Reference.png).
 
 ### Project IV. Large Castle Environment
 
@@ -136,16 +136,16 @@ excerpt: "Firstly, as you may have noticed, this post is a week late like the la
   next week, so the project is likely going to be shown off in its entirety in NL1.11.
 - Firstly, I'd like to introduce the several sources I used as reference to aid me in the tricky architectural parts of
   designing such an environment (see
-  [this file](https://github.com/kanpov/3DProjects/blob/main/19_LargeCastle/Credits.txt) as well):
+  [this file](https://github.com/kanpov/Blender_Public/blob/main/19_LargeCastle/Credits.txt) as well):
   - [Olbert's Low Poly Castle](https://www.unrealengine.com/marketplace/en-US/product/olbert-s-low-poly-castle) asset
     on the Unreal Engine Marketplace partially for the center of the castle:
-  ![The top view of the referenced castle](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/References/CentralArea/CenterTopView.png)
-  ![The side view of the referenced castle](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/References/CentralArea/CenterSideView.png)
+  ![The top view of the referenced castle](https://github.com/kanpov/Blender_Public/raw/main/19_LargeCastle/References/CentralArea/CenterTopView.png)
+  ![The side view of the referenced castle](https://github.com/kanpov/Blender_Public/raw/main/19_LargeCastle/References/CentralArea/CenterSideView.png)
   - [Olbert's Low Poly Medieval Town](https://www.unrealengine.com/marketplace/en-US/product/olbert-s-low-poly-medieval-town)
     asset on the Unreal Engine Marketplace partially for the architecture of the outer area
     (more specifically Fachwerk houses):
-  ![The broken down modular assets from the pack](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/References/Housing/FachwerkModules.png)
-  ![The full top view of the medieval town](https://github.com/kanpov/3DProjects/raw/main/19_LargeCastle/References/Housing/FachwerkEnvironment1.png)
+  ![The broken down modular assets from the pack](https://github.com/kanpov/Blender_Public/raw/main/19_LargeCastle/References/Housing/FachwerkModules.png)
+  ![The full top view of the medieval town](https://github.com/kanpov/Blender_Public/raw/main/19_LargeCastle/References/Housing/FachwerkEnvironment1.png)
 - As for the progress I'm currently in the modeling stage and have completed several areas and key parts that I can
   already show off:
   - The central part of the castle with the central block and the towers connected to it:
