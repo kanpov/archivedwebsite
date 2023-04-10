@@ -1,5 +1,5 @@
 ---
-title: "2.15: Amassing Experience (DRAFT)"
+title: "2.15: Amassing Experience"
 date: 2023-04-08 +0300
 excerpt: "My journey towards learning 3D has taken various unexpected (and incredibly time-consuming) twists and turns..."
 ---
